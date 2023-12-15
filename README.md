@@ -13,7 +13,7 @@
 
 *   Read in crypto_data.csv and build DataFrame named "crypto_df"
 *   Keep only rows where the "IsTrading" column is "True" in DataFrame.
-*   Keep only rows that have values in the "Algorith" column in DataFrame.
+*   Keep only rows that have values in the "Algorithm" column in DataFrame.
 *   Drop the "IsTrading" column from DataFrame. 
 *   Check for "null values (NaN) in rows in DataFrame.
 *   Drop rows containing NaN values in DataFrame.
